@@ -1,1 +1,9 @@
 pandas
+PyJWT
+numpy
+sympy
+scikit-learn
+python-docx
+openpyxl
+pypdf
+pdfplumber
